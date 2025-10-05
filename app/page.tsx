@@ -26,7 +26,7 @@ export default function Page() {
           <h2 className="font-serif text-5xl font-medium leading-tight tracking-tight text-foreground text-balance md:text-6xl lg:text-7xl">
             Expert Apple repairs,
             <br />
-            right at your doorstep
+           <span className="text-[#38b6ff]">  right at your doorstep</span>
           </h2>
           <p className="mx-auto max-w-2xl text-lg leading-relaxed text-muted-foreground md:text-xl">
             Professional repair services for your iPhone, iPad, Mac, and other Apple devices. We come to you.
